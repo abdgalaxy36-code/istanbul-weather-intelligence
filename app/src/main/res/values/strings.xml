@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Istanbul Weather Intelligence</string>
+    <string name="app_title">Istanbul</string>
+    <string name="app_subtitle">Weather Intelligence</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_compare">Compare</string>
+    <string name="nav_settings">Settings</string>
+    <string name="collect_now">Collect Now</string>
+    <string name="theme_toggle">Toggle light or dark theme</string>
+    <string name="swipe_hint">Swipe left or right to switch pages</string>
+    <string name="first_use_swipe_hint">Tip: swipe left or right to move between Home, Compare and Settings — or tap the buttons above.</string>
+    <string name="mgm_attribution">Data source: Meteoroloji Genel Müdürlüğü (MGM)</string>
+    <string name="metoffice_attribution">Powered by Met Office data</string>
+</resources>

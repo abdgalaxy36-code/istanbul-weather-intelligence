@@ -1,0 +1,21 @@
+# Gradle / Android build outputs
+.gradle/
+build/
+app/build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Secrets - never commit the Met Office API key
+secrets.properties
+*.keystore
+*.jks
+
+# Debug outputs
+*.log
